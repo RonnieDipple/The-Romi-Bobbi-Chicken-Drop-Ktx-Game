@@ -4,6 +4,6 @@ This is based on the [A Simple Game](https://github.com/libgdx/libgdx/wiki/A-sim
 
 ***
 
-![Menu Screen]()
+![Menu Screen](https://raw.githubusercontent.com/RonnieDipple/The-Romi-Bobbi-Chicken-Drop-Ktx-Game/master/screenshots/menuScreen.png)
 
-![Game Screen]()
+![Game Screen](https://raw.githubusercontent.com/RonnieDipple/The-Romi-Bobbi-Chicken-Drop-Ktx-Game/master/screenshots/GameScreen.png)
